@@ -1,0 +1,18 @@
+{
+  "name": "ToDo",
+  "version": "1.0.0",
+  "description": "Creating a Single Page Todo App with Node and Angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clem Akomea-Agyin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.6.6",
+    "express": "^4.8.6",
+    "method-override": "^2.1.3",
+    "mongoose": "^3.8.15",
+    "morgan": "^1.2.3"
+  }
+}
